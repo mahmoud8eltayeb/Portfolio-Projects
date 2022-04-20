@@ -1,2 +1,1 @@
-# SQL-Projects-
-SQL Files 
+Portfolio Projects in SQL & Python 
